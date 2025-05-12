@@ -1,0 +1,7 @@
+langgraph
+openai-whisper
+sounddevice
+numpy
+notebook
+scipy
+ffmpeg
